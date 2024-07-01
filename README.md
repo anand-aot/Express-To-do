@@ -1,12 +1,19 @@
-### BASIC EXPRESS CRUD OPERATION ###
+# BASIC EXPRESS CRUD OPERATION
 
 ## Create  - POST
 ## Read - GET
 ## Update - PUT
 ## Delete - DELETE
-## Install
--npm install uuid
--npm install express
+```bash
+npm install uuid
+
+```bash
+npm install express
+```
 ##To run
- -npm ibash
- -npm run dev-todo
+
+```bash
+npm run dev-todo
+```
+## Run in local host
+- http://localhost:4500/
